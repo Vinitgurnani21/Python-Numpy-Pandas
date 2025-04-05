@@ -20,3 +20,4 @@
 - This file is all about looping in python, to master in loops concept.
 - With loops (for loop/while loop) create different patterns in python. <br/>
 <span style="color:greens;"> Note :- Some other pattern programs are yet to be added in file. </span>
+<span style="color:orange">Orange Note :- Some other pattern programs are yet to be added in file. </span>  
