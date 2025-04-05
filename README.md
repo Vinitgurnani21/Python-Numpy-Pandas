@@ -19,4 +19,4 @@
 ### Patterns :- 
 - This file is all about looping in python, to master in loops concept.
 - With loops (for loop/while loop) create different patterns in python. 
-<font color="green"> Note :- Some other pattern programs are yet to be added in file. </font>
+<span style="color:green"> Note :- Some other pattern programs are yet to be added in file. </span>
