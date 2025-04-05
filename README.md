@@ -20,4 +20,7 @@
 - This file is all about looping in python, to master in loops concept.
 - With loops (for loop/while loop) create different patterns in python. <br/>
   Note :- Some other pattern programs are yet to be added in file.
+<br/>
 
+#Pandas_Assignment_Quiz :-
+- This is a basic level quiz for practicing our learned concepts of pandas.
